@@ -92,20 +92,18 @@ ul.grid{
 }
 
 
-/*-------------
- 	Header
--------------*/
+/*Header*/
 
 header{
 	position: absolute;
-	top: 0;
+	top: 150px;
 	left: 0;
 	z-index: 10;
 	width: 100%;
 	display: flex;
 	justify-content: space-between;
-	align-items: center;
-	color: #fff;
+	align-items: right;
+	color: rgb(0, 0, 0);
 	padding: 35px 100px 0;
 }
 
