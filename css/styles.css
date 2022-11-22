@@ -171,6 +171,7 @@ header nav li:last-child{
 }
 
 .hero .background-image:after{
+
 	/* content: ''; */
 	position: absolute;
 	top: 0;
