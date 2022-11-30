@@ -366,7 +366,6 @@ header nav li:last-child{
 }
 
 /* Footer */
-
 footer{
 	display: flex;
 	flex-direction: column;
