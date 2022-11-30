@@ -221,7 +221,6 @@ header nav li:last-child{
 	padding: 20px;
 	height: 350px;
 	border-radius: 3px;
-
 	background-clip: content-box;
 	background-size: cover;
 	background-position: center;
